@@ -1,0 +1,33 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\bin\Debug\2arreglos.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\bin\Debug\2arreglos.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\bin\Debug\2arreglos.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\bin\Debug\2arreglos.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\obj\Debug\2arreglos.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\obj\Debug\_2arreglos.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\obj\Debug\_2arreglos.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\obj\Debug\2arreglos.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\obj\Debug\2arreglos.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\obj\Debug\2arreglos.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\2arreglos\2arreglos\obj\Debug\2arreglos.pdb
+E:\Visual Basic\2arreglos\2arreglos\bin\Debug\2arreglos.exe.config
+E:\Visual Basic\2arreglos\2arreglos\obj\Debug\2arreglos.exe
+E:\Visual Basic\2arreglos\2arreglos\obj\Debug\2arreglos.xml
+E:\Visual Basic\2arreglos\2arreglos\obj\Debug\2arreglos.pdb
+E:\Visual Basic\2arreglos\2arreglos\bin\Debug\2arreglos.exe
+E:\Visual Basic\2arreglos\2arreglos\bin\Debug\2arreglos.pdb
+E:\Visual Basic\2arreglos\2arreglos\bin\Debug\2arreglos.xml
+E:\Visual Basic\2arreglos\2arreglos\obj\Debug\2arreglos.vbprojResolveAssemblyReference.cache
+E:\Visual Basic\2arreglos\2arreglos\obj\Debug\_2arreglos.Form1.resources
+E:\Visual Basic\2arreglos\2arreglos\obj\Debug\_2arreglos.Resources.resources
+E:\Visual Basic\2arreglos\2arreglos\obj\Debug\2arreglos.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\bin\Debug\2arreglos.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\bin\Debug\2arreglos.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\bin\Debug\2arreglos.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\bin\Debug\2arreglos.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\obj\Debug\2arreglos.vbprojResolveAssemblyReference.cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\obj\Debug\_2arreglos.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\obj\Debug\_2arreglos.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\obj\Debug\2arreglos.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\obj\Debug\2arreglos.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\obj\Debug\2arreglos.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\2arreglos\2arreglos\obj\Debug\2arreglos.pdb

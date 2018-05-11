@@ -1,0 +1,11 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\bin\Debug\appParimpar.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\obj\Debug\appParimpar.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\obj\Debug\appParimpar.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\obj\Debug\appParimpar.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\obj\Debug\appParimpar.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\bin\Debug\appParimpar.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\bin\Debug\appParimpar.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\bin\Debug\appParimpar.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\obj\Debug\appParimpar.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\obj\Debug\appParimpar.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appParimpar\appParimpar\obj\Debug\appParimpar.pdb

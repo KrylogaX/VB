@@ -1,0 +1,11 @@
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\bin\Debug\appPromedioFClases.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\bin\Debug\appPromedioFClases.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\bin\Debug\appPromedioFClases.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\bin\Debug\appPromedioFClases.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\obj\Debug\appPromedioFClases.vbprojResolveAssemblyReference.cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\obj\Debug\appPromedioFClases.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\obj\Debug\appPromedioFClases.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\obj\Debug\appPromedioFClases.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\obj\Debug\appPromedioFClases.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\obj\Debug\appPromedioFClases.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appPromedioFClases\appPromedioFClases\obj\Debug\appPromedioFClases.pdb

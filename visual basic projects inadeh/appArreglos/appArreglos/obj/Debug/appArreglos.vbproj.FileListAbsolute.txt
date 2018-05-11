@@ -1,0 +1,11 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\bin\Debug\appArreglos.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\bin\Debug\appArreglos.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\bin\Debug\appArreglos.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\bin\Debug\appArreglos.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\obj\Debug\appArreglos.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\obj\Debug\appArreglos.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\obj\Debug\appArreglos.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\obj\Debug\appArreglos.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\obj\Debug\appArreglos.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\obj\Debug\appArreglos.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appArreglos\appArreglos\obj\Debug\appArreglos.pdb

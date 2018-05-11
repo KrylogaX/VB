@@ -1,0 +1,11 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\bin\Debug\appCalculadora.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\obj\Debug\appCalculadora.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\obj\Debug\appCalculadora.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\obj\Debug\appCalculadora.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\obj\Debug\appCalculadora.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\bin\Debug\appCalculadora.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\bin\Debug\appCalculadora.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\bin\Debug\appCalculadora.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\obj\Debug\appCalculadora.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\obj\Debug\appCalculadora.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appCalculadora\appCalculadora\obj\Debug\appCalculadora.pdb

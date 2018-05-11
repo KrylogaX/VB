@@ -1,0 +1,11 @@
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\bin\Debug\appFactura.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\bin\Debug\appFactura.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\bin\Debug\appFactura.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\bin\Debug\appFactura.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\obj\Debug\appFactura.vbprojResolveAssemblyReference.cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\obj\Debug\appFactura.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\obj\Debug\appFactura.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\obj\Debug\appFactura.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\obj\Debug\appFactura.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\obj\Debug\appFactura.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFactura\appFactura\obj\Debug\appFactura.pdb

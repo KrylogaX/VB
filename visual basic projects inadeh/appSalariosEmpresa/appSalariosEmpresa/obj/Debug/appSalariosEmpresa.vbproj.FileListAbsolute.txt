@@ -1,0 +1,11 @@
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\bin\Debug\appSalariosEmpresa.exe.config
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\bin\Debug\appSalariosEmpresa.exe
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\bin\Debug\appSalariosEmpresa.pdb
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\bin\Debug\appSalariosEmpresa.xml
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\obj\Debug\appSalariosEmpresa.vbprojResolveAssemblyReference.cache
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\obj\Debug\appSalariosEmpresa.Form1.resources
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\obj\Debug\appSalariosEmpresa.Resources.resources
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\obj\Debug\appSalariosEmpresa.vbproj.GenerateResource.Cache
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\obj\Debug\appSalariosEmpresa.exe
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\obj\Debug\appSalariosEmpresa.xml
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appSalariosEmpresa\appSalariosEmpresa\obj\Debug\appSalariosEmpresa.pdb

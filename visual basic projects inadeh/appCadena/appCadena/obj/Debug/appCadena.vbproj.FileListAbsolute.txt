@@ -1,0 +1,32 @@
+c:\users\usuario\documents\visual studio 2013\Projects\appCadena\appCadena\bin\Debug\appCadena.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\appCadena\appCadena\bin\Debug\appCadena.exe
+c:\users\usuario\documents\visual studio 2013\Projects\appCadena\appCadena\bin\Debug\appCadena.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\appCadena\appCadena\bin\Debug\appCadena.xml
+c:\users\usuario\documents\visual studio 2013\Projects\appCadena\appCadena\obj\Debug\appCadena.Form1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\appCadena\appCadena\obj\Debug\appCadena.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\appCadena\appCadena\obj\Debug\appCadena.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\appCadena\appCadena\obj\Debug\appCadena.exe
+c:\users\usuario\documents\visual studio 2013\Projects\appCadena\appCadena\obj\Debug\appCadena.xml
+c:\users\usuario\documents\visual studio 2013\Projects\appCadena\appCadena\obj\Debug\appCadena.pdb
+D:\Visual Basic\appCadena\appCadena\bin\Debug\appCadena.exe.config
+D:\Visual Basic\appCadena\appCadena\bin\Debug\appCadena.exe
+D:\Visual Basic\appCadena\appCadena\bin\Debug\appCadena.pdb
+D:\Visual Basic\appCadena\appCadena\bin\Debug\appCadena.xml
+D:\Visual Basic\appCadena\appCadena\obj\Debug\appCadena.vbprojResolveAssemblyReference.cache
+D:\Visual Basic\appCadena\appCadena\obj\Debug\appCadena.Form1.resources
+D:\Visual Basic\appCadena\appCadena\obj\Debug\appCadena.Resources.resources
+D:\Visual Basic\appCadena\appCadena\obj\Debug\appCadena.vbproj.GenerateResource.Cache
+D:\Visual Basic\appCadena\appCadena\obj\Debug\appCadena.exe
+D:\Visual Basic\appCadena\appCadena\obj\Debug\appCadena.xml
+D:\Visual Basic\appCadena\appCadena\obj\Debug\appCadena.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\bin\Debug\appCadena.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\bin\Debug\appCadena.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\bin\Debug\appCadena.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\bin\Debug\appCadena.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\obj\Debug\appCadena.vbprojResolveAssemblyReference.cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\obj\Debug\appCadena.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\obj\Debug\appCadena.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\obj\Debug\appCadena.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\obj\Debug\appCadena.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\obj\Debug\appCadena.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appCadena\appCadena\obj\Debug\appCadena.pdb

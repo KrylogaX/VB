@@ -1,0 +1,11 @@
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\bin\Debug\appNumerosOrdenadosArr.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\bin\Debug\appNumerosOrdenadosArr.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\bin\Debug\appNumerosOrdenadosArr.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\bin\Debug\appNumerosOrdenadosArr.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\obj\Debug\appNumerosOrdenadosArr.vbprojResolveAssemblyReference.cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\obj\Debug\appNumerosOrdenadosArr.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\obj\Debug\appNumerosOrdenadosArr.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\obj\Debug\appNumerosOrdenadosArr.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\obj\Debug\appNumerosOrdenadosArr.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\obj\Debug\appNumerosOrdenadosArr.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appNumerosOrdenadosArr\appNumerosOrdenadosArr\obj\Debug\appNumerosOrdenadosArr.pdb

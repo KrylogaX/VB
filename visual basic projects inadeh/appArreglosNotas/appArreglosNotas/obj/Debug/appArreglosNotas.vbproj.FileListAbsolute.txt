@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2013\Projects\appArreglosNotas\appArreglosNotas\bin\Debug\appArreglosNotas.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\appArreglosNotas\appArreglosNotas\bin\Debug\appArreglosNotas.exe
+c:\users\usuario\documents\visual studio 2013\Projects\appArreglosNotas\appArreglosNotas\bin\Debug\appArreglosNotas.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\appArreglosNotas\appArreglosNotas\bin\Debug\appArreglosNotas.xml
+c:\users\usuario\documents\visual studio 2013\Projects\appArreglosNotas\appArreglosNotas\obj\Debug\appArreglosNotas.Form1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\appArreglosNotas\appArreglosNotas\obj\Debug\appArreglosNotas.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\appArreglosNotas\appArreglosNotas\obj\Debug\appArreglosNotas.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\appArreglosNotas\appArreglosNotas\obj\Debug\appArreglosNotas.exe
+c:\users\usuario\documents\visual studio 2013\Projects\appArreglosNotas\appArreglosNotas\obj\Debug\appArreglosNotas.xml
+c:\users\usuario\documents\visual studio 2013\Projects\appArreglosNotas\appArreglosNotas\obj\Debug\appArreglosNotas.pdb

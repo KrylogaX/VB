@@ -1,0 +1,11 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\bin\Debug\informacionEmpleado.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\obj\Debug\informacionEmpleado.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\obj\Debug\informacionEmpleado.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\obj\Debug\informacionEmpleado.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\obj\Debug\informacionEmpleado.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\bin\Debug\informacionEmpleado.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\bin\Debug\informacionEmpleado.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\bin\Debug\informacionEmpleado.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\obj\Debug\informacionEmpleado.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\obj\Debug\informacionEmpleado.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\informacionEmpleado\informacionEmpleado\obj\Debug\informacionEmpleado.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\bin\Debug\appFunciones.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\bin\Debug\appFunciones.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\bin\Debug\appFunciones.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\bin\Debug\appFunciones.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\obj\Debug\appFunciones.vbprojResolveAssemblyReference.cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\obj\Debug\appFunciones.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\obj\Debug\appFunciones.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\obj\Debug\appFunciones.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\obj\Debug\appFunciones.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\obj\Debug\appFunciones.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appFunciones\appFunciones\obj\Debug\appFunciones.pdb

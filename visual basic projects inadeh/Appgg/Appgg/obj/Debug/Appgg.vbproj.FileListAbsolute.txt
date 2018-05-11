@@ -1,0 +1,15 @@
+c:\users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\bin\Debug\Appgg.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\bin\Debug\Appgg.exe
+c:\users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\bin\Debug\Appgg.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\bin\Debug\Appgg.xml
+c:\users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\obj\Debug\Appgg.Form1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\obj\Debug\Appgg.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\obj\Debug\Appgg.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\obj\Debug\Appgg.exe
+c:\users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\obj\Debug\Appgg.xml
+c:\users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\obj\Debug\Appgg.pdb
+C:\Users\usuario\documents\visual studio 2013\Projects\Appgg\Appgg\obj\Debug\Appgg.vbprojResolveAssemblyReference.cache
+E:\Appgg\Appgg\bin\Debug\Appgg.exe.config
+E:\Appgg\Appgg\obj\Debug\Appgg.exe
+E:\Appgg\Appgg\obj\Debug\Appgg.xml
+E:\Appgg\Appgg\obj\Debug\Appgg.pdb

@@ -1,0 +1,11 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\bin\Debug\repaso.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\bin\Debug\repaso.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\bin\Debug\repaso.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\bin\Debug\repaso.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\obj\Debug\repaso.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\obj\Debug\repaso.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\obj\Debug\repaso.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\obj\Debug\repaso.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\obj\Debug\repaso.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\obj\Debug\repaso.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\repaso\repaso\obj\Debug\repaso.pdb

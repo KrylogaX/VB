@@ -1,0 +1,11 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\bin\Debug\appventas.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\bin\Debug\appventas.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\bin\Debug\appventas.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\bin\Debug\appventas.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\obj\Debug\appventas.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\obj\Debug\appventas.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\obj\Debug\appventas.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\obj\Debug\appventas.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\obj\Debug\appventas.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\obj\Debug\appventas.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appventas\appventas\obj\Debug\appventas.pdb

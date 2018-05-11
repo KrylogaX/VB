@@ -1,0 +1,23 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\bin\Debug\App hola mundo.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\bin\Debug\App hola mundo.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\bin\Debug\App hola mundo.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\bin\Debug\App hola mundo.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\obj\Debug\App_hola_mundo.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\obj\Debug\App_hola_mundo.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.pdb
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\bin\Debug\App hola mundo.exe.config
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\bin\Debug\App hola mundo.exe
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\bin\Debug\App hola mundo.pdb
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\bin\Debug\App hola mundo.xml
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.vbprojResolveAssemblyReference.cache
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\obj\Debug\App_hola_mundo.Form1.resources
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\obj\Debug\App_hola_mundo.Resources.resources
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.vbproj.GenerateResource.cache
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.vbproj.CoreCompileInputs.cache
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.exe
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.xml
+C:\Users\kroussette\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\App hola mundo\App hola mundo\obj\Debug\App hola mundo.pdb

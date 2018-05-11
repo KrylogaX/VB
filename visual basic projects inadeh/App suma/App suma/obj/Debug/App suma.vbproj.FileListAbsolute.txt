@@ -1,0 +1,11 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\bin\Debug\App suma.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\obj\Debug\App suma.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\obj\Debug\App_suma.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\obj\Debug\App_suma.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\obj\Debug\App suma.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\bin\Debug\App suma.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\bin\Debug\App suma.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\bin\Debug\App suma.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\obj\Debug\App suma.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\obj\Debug\App suma.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\App suma\App suma\obj\Debug\App suma.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\bin\Debug\appEvaluaciónFInal.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\bin\Debug\appEvaluaciónFInal.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\bin\Debug\appEvaluaciónFInal.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\bin\Debug\appEvaluaciónFInal.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\obj\Debug\appEvaluaciónFInal.vbprojResolveAssemblyReference.cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\obj\Debug\appEvaluaciónFInal.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\obj\Debug\appEvaluaciónFInal.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\obj\Debug\appEvaluaciónFInal.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\obj\Debug\appEvaluaciónFInal.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\obj\Debug\appEvaluaciónFInal.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEvaluaciónFInal\appEvaluaciónFInal\obj\Debug\appEvaluaciónFInal.pdb

@@ -1,0 +1,22 @@
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\bin\Debug\appRegistroPlantilla.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\bin\Debug\appRegistroPlantilla.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\bin\Debug\appRegistroPlantilla.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\bin\Debug\appRegistroPlantilla.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.vbprojResolveAssemblyReference.cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.pdb
+E:\appRegistroPlantilla\appRegistroPlantilla\bin\Debug\appRegistroPlantilla.exe.config
+E:\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.exe
+E:\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.xml
+E:\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.pdb
+E:\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.vbprojResolveAssemblyReference.cache
+E:\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.Form1.resources
+E:\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.Resources.resources
+E:\appRegistroPlantilla\appRegistroPlantilla\obj\Debug\appRegistroPlantilla.vbproj.GenerateResource.Cache
+E:\appRegistroPlantilla\appRegistroPlantilla\bin\Debug\appRegistroPlantilla.exe
+E:\appRegistroPlantilla\appRegistroPlantilla\bin\Debug\appRegistroPlantilla.pdb
+E:\appRegistroPlantilla\appRegistroPlantilla\bin\Debug\appRegistroPlantilla.xml

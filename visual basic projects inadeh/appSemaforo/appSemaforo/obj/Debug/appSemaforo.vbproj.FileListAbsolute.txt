@@ -1,0 +1,11 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\bin\Debug\appSemaforo.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\bin\Debug\appSemaforo.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\bin\Debug\appSemaforo.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\bin\Debug\appSemaforo.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\obj\Debug\appSemaforo.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\obj\Debug\appSemaforo.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\obj\Debug\appSemaforo.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\obj\Debug\appSemaforo.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\obj\Debug\appSemaforo.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\obj\Debug\appSemaforo.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appSemaforo\appSemaforo\obj\Debug\appSemaforo.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructInventario\appEstructInventario\bin\Debug\appEstructInventario.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructInventario\appEstructInventario\bin\Debug\appEstructInventario.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructInventario\appEstructInventario\bin\Debug\appEstructInventario.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructInventario\appEstructInventario\bin\Debug\appEstructInventario.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructInventario\appEstructInventario\obj\Debug\appEstructInventario.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructInventario\appEstructInventario\obj\Debug\appEstructInventario.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructInventario\appEstructInventario\obj\Debug\appEstructInventario.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructInventario\appEstructInventario\obj\Debug\appEstructInventario.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructInventario\appEstructInventario\obj\Debug\appEstructInventario.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructInventario\appEstructInventario\obj\Debug\appEstructInventario.pdb

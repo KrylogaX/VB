@@ -1,0 +1,10 @@
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appDonativos\appDonativos\bin\Debug\appDonativos.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appDonativos\appDonativos\bin\Debug\appDonativos.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appDonativos\appDonativos\bin\Debug\appDonativos.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appDonativos\appDonativos\bin\Debug\appDonativos.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appDonativos\appDonativos\obj\Debug\appDonativos.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appDonativos\appDonativos\obj\Debug\appDonativos.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appDonativos\appDonativos\obj\Debug\appDonativos.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appDonativos\appDonativos\obj\Debug\appDonativos.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appDonativos\appDonativos\obj\Debug\appDonativos.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appDonativos\appDonativos\obj\Debug\appDonativos.pdb

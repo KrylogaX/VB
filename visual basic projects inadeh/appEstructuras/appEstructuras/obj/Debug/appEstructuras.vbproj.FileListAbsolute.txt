@@ -1,0 +1,11 @@
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\bin\Debug\appEstructuras.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\bin\Debug\appEstructuras.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\bin\Debug\appEstructuras.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\bin\Debug\appEstructuras.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\obj\Debug\appEstructuras.vbprojResolveAssemblyReference.cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\obj\Debug\appEstructuras.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\obj\Debug\appEstructuras.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\obj\Debug\appEstructuras.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\obj\Debug\appEstructuras.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\obj\Debug\appEstructuras.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appEstructuras\appEstructuras\obj\Debug\appEstructuras.pdb

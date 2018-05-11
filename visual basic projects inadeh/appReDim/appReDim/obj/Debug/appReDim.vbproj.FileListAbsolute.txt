@@ -1,0 +1,22 @@
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\bin\Debug\appReDim.exe.config
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\bin\Debug\appReDim.exe
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\bin\Debug\appReDim.pdb
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\bin\Debug\appReDim.xml
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\obj\Debug\appReDim.vbprojResolveAssemblyReference.cache
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\obj\Debug\appReDim.Form1.resources
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\obj\Debug\appReDim.Resources.resources
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\obj\Debug\appReDim.vbproj.GenerateResource.Cache
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\obj\Debug\appReDim.exe
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\obj\Debug\appReDim.xml
+c:\users\kr0uss3tt3\documents\visual studio 2017\Projects\appReDim\appReDim\obj\Debug\appReDim.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\bin\Debug\appReDim.exe.config
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\bin\Debug\appReDim.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\bin\Debug\appReDim.pdb
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\bin\Debug\appReDim.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\obj\Debug\appReDim.vbprojResolveAssemblyReference.cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\obj\Debug\appReDim.Form1.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\obj\Debug\appReDim.Resources.resources
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\obj\Debug\appReDim.vbproj.GenerateResource.Cache
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\obj\Debug\appReDim.exe
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\obj\Debug\appReDim.xml
+C:\Users\Kr0uss3tt3\Google Drive\Cursos\visual basic .net inadeh\visual basic projects\appReDim\appReDim\obj\Debug\appReDim.pdb

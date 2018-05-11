@@ -1,0 +1,11 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\bin\Debug\geometria.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\obj\Debug\geometria.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\obj\Debug\geometria.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\obj\Debug\geometria.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\obj\Debug\geometria.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\bin\Debug\geometria.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\bin\Debug\geometria.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\bin\Debug\geometria.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\obj\Debug\geometria.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\obj\Debug\geometria.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\geometria\geometria\obj\Debug\geometria.pdb

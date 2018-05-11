@@ -1,0 +1,11 @@
+F:\visual basic proyects\appSumas\appSumas\appSumas\bin\Debug\appSumas.exe.config
+F:\visual basic proyects\appSumas\appSumas\appSumas\bin\Debug\appSumas.exe
+F:\visual basic proyects\appSumas\appSumas\appSumas\bin\Debug\appSumas.pdb
+F:\visual basic proyects\appSumas\appSumas\appSumas\bin\Debug\appSumas.xml
+F:\visual basic proyects\appSumas\appSumas\appSumas\obj\Debug\appSumas.vbprojResolveAssemblyReference.cache
+F:\visual basic proyects\appSumas\appSumas\appSumas\obj\Debug\appSumas.Resources.resources
+F:\visual basic proyects\appSumas\appSumas\appSumas\obj\Debug\appSumas.vbproj.GenerateResource.Cache
+F:\visual basic proyects\appSumas\appSumas\appSumas\obj\Debug\appSumas.exe
+F:\visual basic proyects\appSumas\appSumas\appSumas\obj\Debug\appSumas.xml
+F:\visual basic proyects\appSumas\appSumas\appSumas\obj\Debug\appSumas.pdb
+F:\visual basic proyects\appSumas\appSumas\appSumas\obj\Debug\appSumas.formOperaciones.resources

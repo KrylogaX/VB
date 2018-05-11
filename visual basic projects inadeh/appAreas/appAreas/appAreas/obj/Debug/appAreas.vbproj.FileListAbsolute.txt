@@ -1,0 +1,11 @@
+F:\visual basic proyects\appAreas\appAreas\appAreas\bin\Debug\appAreas.exe.config
+F:\visual basic proyects\appAreas\appAreas\appAreas\obj\Debug\appAreas.vbprojResolveAssemblyReference.cache
+F:\visual basic proyects\appAreas\appAreas\appAreas\obj\Debug\appAreas.formAreas.resources
+F:\visual basic proyects\appAreas\appAreas\appAreas\obj\Debug\appAreas.Resources.resources
+F:\visual basic proyects\appAreas\appAreas\appAreas\obj\Debug\appAreas.vbproj.GenerateResource.Cache
+F:\visual basic proyects\appAreas\appAreas\appAreas\obj\Debug\appAreas.xml
+F:\visual basic proyects\appAreas\appAreas\appAreas\bin\Debug\appAreas.exe
+F:\visual basic proyects\appAreas\appAreas\appAreas\bin\Debug\appAreas.pdb
+F:\visual basic proyects\appAreas\appAreas\appAreas\bin\Debug\appAreas.xml
+F:\visual basic proyects\appAreas\appAreas\appAreas\obj\Debug\appAreas.exe
+F:\visual basic proyects\appAreas\appAreas\appAreas\obj\Debug\appAreas.pdb

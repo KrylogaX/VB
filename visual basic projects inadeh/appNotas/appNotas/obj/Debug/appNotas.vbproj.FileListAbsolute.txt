@@ -1,0 +1,11 @@
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\bin\Debug\appNotas.exe.config
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\bin\Debug\appNotas.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\bin\Debug\appNotas.pdb
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\bin\Debug\appNotas.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\obj\Debug\appNotas.vbprojResolveAssemblyReference.cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\obj\Debug\appNotas.Form1.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\obj\Debug\appNotas.Resources.resources
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\obj\Debug\appNotas.vbproj.GenerateResource.Cache
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\obj\Debug\appNotas.exe
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\obj\Debug\appNotas.xml
+c:\users\inadeh\documents\visual studio 2015\Projects\appNotas\appNotas\obj\Debug\appNotas.pdb
